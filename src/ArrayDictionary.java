@@ -1,3 +1,8 @@
+// got help from other students and peers
+// got help from 
+// https://jigsaw.w3.org/Doc/Programmer/api/org/w3c/util/ArrayDictionary.html
+// https://www.geeksforgeeks.org/java-util-dictionary-class-java/
+
 public class ArrayDictionary implements Dictionary {
     private int capacity;
     private int count;
