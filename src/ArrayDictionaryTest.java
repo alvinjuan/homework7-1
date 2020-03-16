@@ -4,6 +4,8 @@ import java.lang.reflect.Array;
 
 import static org.junit.Assert.*;
 
+// got help from other students and peers
+
 public class ArrayDictionaryTest {
     @Test
     public void demo() {
